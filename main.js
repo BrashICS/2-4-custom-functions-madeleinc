@@ -49,3 +49,9 @@ function roll_d6(){
     console.log(`a six sided di just rolled to side ${di}`)
 }
 roll_d6()
+
+//randomizing number with user 
+
+//volumes
+
+//
